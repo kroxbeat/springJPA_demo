@@ -1,0 +1,18 @@
+POST http://localhost:8080/m/add
+Content-Type: application/json
+
+{"id": "keroro5","name": "kangjunghyun5"}
+
+###
+
+GET http://localhost:8080/m/list
+Content-Type: application/json
+
+###
+
+
+GET http://localhost:8080/m/list2
+Content-Type: application/json
+
+###
+
